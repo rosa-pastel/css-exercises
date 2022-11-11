@@ -36,8 +36,8 @@ body {
 }
 
 .container {
-  display: flex;
   justify-content: center;
+  display: flex;  
   gap: 52px;
 }
 
