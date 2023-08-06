@@ -49,6 +49,7 @@ li{
 }
 
 .sidebar {
+<<<<<<< HEAD
   display: grid;
   gap: 50px;
   grid-template-rows: repeat(auto-fit, 1fr);
@@ -59,6 +60,9 @@ li{
   display: grid;
   justify-content: center;
   align-items: center;
+=======
+  background-color: #C50208;
+>>>>>>> upstream/main
 }
 
 .sidebar .photo {
@@ -78,8 +82,12 @@ li{
 }
 
 .nav {
+<<<<<<< HEAD
   background-color: #FF7755;
   grid-area: 2/2/3/-1;
+=======
+  background-color: #C50208;
+>>>>>>> upstream/main
 }
 
 .nav ul li {
@@ -127,5 +135,5 @@ li{
 
 .footer p {
   font-size: 13px;
-  font-weight: normal;  
+  font-weight: normal;
 }
